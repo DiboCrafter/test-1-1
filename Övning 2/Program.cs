@@ -1,16 +1,13 @@
 ﻿using System;
-namespace Cypass_gay
+namespace kapitel_1_uppgift_1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej! har du gått ut gymnasiet?");
-            Console.WriteLine("svara j för ja och n för nej");
-            string J 
-                
-             
-             
+            Console.WriteLine("Du är nästan klar med kapitel 1");
+            Console.WriteLine("Du har lärt skriva ut tecken som /");
+            // går inte att skriva " för då funkar inte koden.
         }
     }
 }
